@@ -7,7 +7,7 @@ index.html should be present in a folder named "template"
 
 
 ## Overview: 
-TThis project presents a sophisticated chatbot application designed with Streamlit as the front-end interface, leveraging Natural Language Processing (NLP) through NLTK, and implementing text classification using Scikit-learn's Logistic Regression. The chatbot is pre-configured to handle multiple intents, including responses to common queries and library card-related FAQs, demonstrating scalable and modular architecture for future enhancements.
+This project presents a sophisticated chatbot application designed with Streamlit as the front-end interface, leveraging Natural Language Processing (NLP) through NLTK, and implementing text classification using Scikit-learn's Logistic Regression. The chatbot is pre-configured to handle multiple intents, including responses to common queries and library card-related FAQs, demonstrating scalable and modular architecture for future enhancements.
 
 The primary objective of this chatbot is to provide efficient, intelligent interaction through a robust, vectorized model, offering accurate responses based on user input. The deployment utilizes Streamlit for seamless web interaction, with the underlying machine learning model ensuring accurate predictions across various input patterns.
 
